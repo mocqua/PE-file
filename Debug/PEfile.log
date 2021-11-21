@@ -1,0 +1,7 @@
+﻿  PEfile.cpp
+F:\PEfile\PEfile.cpp(46,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WORD *'
+F:\PEfile\PEfile.cpp(49,9): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'WORD *'
+F:\PEfile\PEfile.cpp(194,13): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'unsigned long'
+F:\PEfile\PEfile.cpp(218,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'unsigned long'
+F:\PEfile\PEfile.cpp(227,12): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'unsigned long'
+  PEfile.vcxproj -> F:\PEfile\Debug\PEfile.exe
